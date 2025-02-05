@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on helping clients adopt GitHub & DevOps transformations
 - 🌱 I’m currently learning Go
 
-### Tools & Languages
+### Main Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
