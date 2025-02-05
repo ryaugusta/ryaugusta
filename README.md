@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryaugusta&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaugusta&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryaugusta\&rank_icon=github\&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaugusta&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dracula) 
