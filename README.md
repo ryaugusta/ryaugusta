@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 #### @ryaugusta
 
 - 🔭 I’m currently working on helping clients adopt GitHub & DevOps transformations
-- 🌱 I’m currently learning Go
 
 ### Main Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
