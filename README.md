@@ -7,8 +7,8 @@
 You can primarily find me: 
   - 💫 Enhancing the developer experience
   - 🤖 Creating cool & innovative `DevOps` solutions
-  - 🌱 Expanding my knowledge in languages like JavaScript & Go
-  - 👶 Svelte & React
+  - 💪 Expanding my knowledge in languages like JavaScript & Go
+  - 🌱 Messin' around with Svelte
 
 #### @ryaugusta
 <!--
